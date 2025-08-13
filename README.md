@@ -9,4 +9,4 @@ The program should work as follows:
   Print You should enter numbers! if the user enters non-numeric symbols in the coordinates input.  
   Print Coordinates should be from 1 to 3! if the user enters coordinates outside the game grid.  
   Keep prompting the user to enter the coordinates until the user input is valid.  
-5.If the input is correct, update the grid to include the user's move and print the updated grid to the console.< br / > 
+5.If the input is correct, update the grid to include the user's move and print the updated grid to the console.
